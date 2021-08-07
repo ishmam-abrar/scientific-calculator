@@ -1,4 +1,4 @@
-# Tkinter-Scientific_calc
+
 Scientific calculator using Python GUI 
 
 * > go to terminal
